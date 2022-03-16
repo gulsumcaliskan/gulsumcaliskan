@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gülsüm ÇALIŞKAN
 
 
-- 🏛 I'm passionate learner who's always willing to learn across technologies.
+- 🏛 I'm a passionate learner who's always willing to learn across technologies.
 - 🔭 I’m currently working on something cool ⚡
 - 🌱 I’m currently learning **Java, Python, C, JavaScript, C#**
 - 📫 How to reach me ...
