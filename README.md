@@ -37,7 +37,11 @@
 
   <!---
 ![Gülsüm's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsumcaliskan&show_icons=true&theme=radical)
+
+Githup extra pins
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 --->
+
 
   <!---
 <h4 align="left">Tools:</h4>
