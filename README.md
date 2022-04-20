@@ -36,6 +36,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsumcaliskan&layout=compact)](https://github.com/gulsumcaliskan/github-readme-stats)
 
   <!---
+![Gülsüm's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsumcaliskan&show_icons=true&theme=radical)
+--->
+
+  <!---
 <h4 align="left">Tools:</h4>
 <p align="left"> 
   
