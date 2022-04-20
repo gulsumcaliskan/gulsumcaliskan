@@ -33,6 +33,8 @@
 </p>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsumcaliskan&layout=compact)](https://github.com/gulsumcaliskan/github-readme-stats)
+
   <!---
 <h4 align="left">Tools:</h4>
 <p align="left"> 
@@ -40,6 +42,7 @@
   
 </p>
 --->
+
 
 
 
