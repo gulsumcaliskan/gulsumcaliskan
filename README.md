@@ -32,6 +32,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
+<!---visitor count--->
+![](https://komarev.com/ghpvc/?username=gulsumcaliskan&color=lightgrey)
+
   <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsumcaliskan&layout=compact)](https://github.com/gulsumcaliskan/github-readme-stats)
 
