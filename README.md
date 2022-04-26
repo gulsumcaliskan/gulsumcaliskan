@@ -32,8 +32,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
-<!---
-![](https://komarev.com/ghpvc/?username=gulsumcaliskan&color=lightgrey)--->
+
+![](https://komarev.com/ghpvc/?username=gulsumcaliskan&color=lightgrey)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=gulsumcaliskan&repo=github-visitors-badge&countColor=%237B1E7A)
 
