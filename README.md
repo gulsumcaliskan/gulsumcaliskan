@@ -33,9 +33,11 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=gulsumcaliskan&color=lightgrey)
-
 ![](https://api.visitorbadge.io/api/VisitorHit?user=gulsumcaliskan&repo=github-visitors-badge&countColor=%237B1E7A)
+
+
+  <!---
+![](https://komarev.com/ghpvc/?username=gulsumcaliskan&color=lightgrey)--->
 
   <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsumcaliskan&layout=compact)](https://github.com/gulsumcaliskan/github-readme-stats)
