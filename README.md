@@ -10,7 +10,7 @@ A passionate Software Developer 💻 from Turkey.
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
-My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experince, architecture, and code quality of the things I build.  
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.  
 </details>
 
 - 🏛 I'm a passionate learner who's always willing to learn across technologies.
