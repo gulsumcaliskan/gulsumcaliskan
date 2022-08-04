@@ -15,7 +15,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 - 🏛 I'm a passionate learner who's always willing to learn across technologies.
 - 🔭 I’m currently working on something cool ⚡
-- 🌱 I’m currently learning **Java, Python, C, JavaScript, C#**
+- 🌱 I’m currently learning **Java, Python, C, JavaScript**
 
 <details>
   <summary><b>🔗&nbsp;&nbsp;Connect&nbsp;With&nbsp;Me</b></summary>
